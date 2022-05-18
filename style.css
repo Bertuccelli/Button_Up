@@ -1,0 +1,38 @@
+.search {
+    display: block;
+    height: 30px;
+    width: 125px;
+    margin: 20px;
+    border: 2px solid;
+    border-radius: 20px;
+    color: rgb(66, 192, 192);
+    background-color: white;
+    font-weight: bolder;
+}
+
+.add {
+    display: block;
+    height: 40px;
+    width: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    border: 2px solid;
+    background-color: rgb(66, 192, 192);
+    color: white;
+    border-radius: 50%;
+    border-color: rgb(66, 192, 192);
+    margin: 20px;
+}
+
+.create {
+    display: block;
+    height: 40px;
+    width: 140px;
+    margin: 20px;
+    border: 2px solid;
+    border-color: black;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: medium;
+    box-shadow: 4px 4px black;
+}
